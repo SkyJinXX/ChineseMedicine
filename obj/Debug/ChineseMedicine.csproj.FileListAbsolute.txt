@@ -1,0 +1,11 @@
+D:\Microsoft\visual studio 2017\Projects\ChineseMedicine\ChineseMedicine\bin\Debug\ChineseMedicine.exe.config
+D:\Microsoft\visual studio 2017\Projects\ChineseMedicine\ChineseMedicine\bin\Debug\ChineseMedicine.exe
+D:\Microsoft\visual studio 2017\Projects\ChineseMedicine\ChineseMedicine\bin\Debug\ChineseMedicine.pdb
+D:\Microsoft\visual studio 2017\Projects\ChineseMedicine\ChineseMedicine\obj\Debug\ChineseMedicine.csprojResolveAssemblyReference.cache
+D:\Microsoft\visual studio 2017\Projects\ChineseMedicine\ChineseMedicine\obj\Debug\ChineseMedicine.Properties.Resources.resources
+D:\Microsoft\visual studio 2017\Projects\ChineseMedicine\ChineseMedicine\obj\Debug\ChineseMedicine.csproj.GenerateResource.Cache
+D:\Microsoft\visual studio 2017\Projects\ChineseMedicine\ChineseMedicine\obj\Debug\ChineseMedicine.exe
+D:\Microsoft\visual studio 2017\Projects\ChineseMedicine\ChineseMedicine\obj\Debug\ChineseMedicine.pdb
+D:\Microsoft\visual studio 2017\Projects\ChineseMedicine\ChineseMedicine\obj\Debug\ChineseMedicine.login.resources
+D:\Microsoft\visual studio 2017\Projects\ChineseMedicine\ChineseMedicine\obj\Debug\ChineseMedicine.Massageform.resources
+D:\Microsoft\visual studio 2017\Projects\ChineseMedicine\ChineseMedicine\obj\Debug\ChineseMedicine.MassageInquire.resources
