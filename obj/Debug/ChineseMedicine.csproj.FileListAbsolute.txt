@@ -9,3 +9,14 @@ D:\Microsoft\visual studio 2017\Projects\ChineseMedicine\ChineseMedicine\obj\Deb
 D:\Microsoft\visual studio 2017\Projects\ChineseMedicine\ChineseMedicine\obj\Debug\ChineseMedicine.login.resources
 D:\Microsoft\visual studio 2017\Projects\ChineseMedicine\ChineseMedicine\obj\Debug\ChineseMedicine.Massageform.resources
 D:\Microsoft\visual studio 2017\Projects\ChineseMedicine\ChineseMedicine\obj\Debug\ChineseMedicine.MassageInquire.resources
+D:\Synchronization and Download\ChineseMedicine\ChineseMedicine\bin\Debug\ChineseMedicine.exe.config
+D:\Synchronization and Download\ChineseMedicine\ChineseMedicine\bin\Debug\ChineseMedicine.exe
+D:\Synchronization and Download\ChineseMedicine\ChineseMedicine\bin\Debug\ChineseMedicine.pdb
+D:\Synchronization and Download\ChineseMedicine\ChineseMedicine\obj\Debug\ChineseMedicine.csprojResolveAssemblyReference.cache
+D:\Synchronization and Download\ChineseMedicine\ChineseMedicine\obj\Debug\ChineseMedicine.login.resources
+D:\Synchronization and Download\ChineseMedicine\ChineseMedicine\obj\Debug\ChineseMedicine.Massageform.resources
+D:\Synchronization and Download\ChineseMedicine\ChineseMedicine\obj\Debug\ChineseMedicine.MassageInquire.resources
+D:\Synchronization and Download\ChineseMedicine\ChineseMedicine\obj\Debug\ChineseMedicine.Properties.Resources.resources
+D:\Synchronization and Download\ChineseMedicine\ChineseMedicine\obj\Debug\ChineseMedicine.csproj.GenerateResource.Cache
+D:\Synchronization and Download\ChineseMedicine\ChineseMedicine\obj\Debug\ChineseMedicine.exe
+D:\Synchronization and Download\ChineseMedicine\ChineseMedicine\obj\Debug\ChineseMedicine.pdb

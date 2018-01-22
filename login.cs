@@ -19,9 +19,18 @@ namespace ChineseMedicine
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            Form MassageInquire = new MassageInquire();
-            MassageInquire.Show();
+            string username = textBox1.Text.ToString();
+            string password = textBox2.Text.ToString();
+            if ( username == "admin" && password == "admin")
+            {
+                Form MassageInquire = new MassageInquire();
+                MassageInquire.Show();
+                this.Close();
+            }
+            else
+            {
+                MessageBox.Show("用户名密码错误！");
+            }
         }
     }
 }
