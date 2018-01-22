@@ -30,6 +30,7 @@ namespace ChineseMedicine
             else
             {
                 MessageBox.Show("用户名密码错误！");
+
             }
         }
     }
